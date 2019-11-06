@@ -1,0 +1,21 @@
+@media (max-width: 550px) {
+
+	ul{
+		display: none;
+	}
+}
+
+@media (max-width: 640px) {
+	
+	#main p {
+		font-size: 2.2rem;
+	}
+
+	#our-mission p {
+		font-size: 1.2rem;
+	}
+
+}
+
+
+
